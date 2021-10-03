@@ -4,7 +4,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="svyatoslavratov | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
+[<img align="left" style="background-color: red;-webkit-mask: url(https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg) no-repeat center;mask: url(https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg) no-repeat center;" alt="svyatoslavratov | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
 [<img align="left" alt="svyatoslavratov | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/telegram.svg" />][Telegram]
 
 <br />
