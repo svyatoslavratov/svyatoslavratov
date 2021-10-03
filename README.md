@@ -18,7 +18,7 @@
 <br />
 
 <img align="left" alt="AnthonyQuantum's Github Stats" src="https://github-readme-stats.vercel.app/api?username=svyatoslavratov&show_icons=true&hide_border=true&count_private=true" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svyatoslavratov)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svyatoslavratov)](https://github.com/svyatoslavratov/github-readme-stats)
 
 [Linkedin]: https://linkedin.com/in/svyatoslav-ratov-401138184
 [Telegram]: https://t.me/svyatoslavratov
