@@ -20,7 +20,9 @@
 <img align="left" alt="svyatoslavratov's Github Stats" src="https://github-readme-stats.vercel.app/api?username=svyatoslavratov&show_icons=true&hide_border=true&count_private=true" />
 <img align="left" alt="svyatoslavratov's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svyatoslavratov&show_icons=true&hide_border=true&count_private=true" />
 
-### 2nd account (for Work):
+<br />
+<br />
+### 2'nd Gitlab account (for Work):
 [<img align="left" alt="ratov.sv | Gitlab" width="64px" style="border-radius: 50%" src="https://gitlab.com/uploads/-/system/user/avatar/3331903/avatar.png?width=400" />][Gitlab]
 
 [Linkedin]: https://linkedin.com/in/svyatoslav-ratov-401138184
