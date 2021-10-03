@@ -28,6 +28,9 @@
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
 ### 2'nd Gitlab account (Work activity):
 [<img align="left" alt="ratov.sv | Gitlab" width="64px" style="border-radius: 50%" src="https://gitlab.com/uploads/-/system/user/avatar/3331903/avatar.png?width=400" />][Gitlab]
