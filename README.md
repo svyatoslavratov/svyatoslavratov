@@ -17,7 +17,7 @@
 <br />
 <br />
 
-<img align="left" width="120px" height="200px" alt="svyatoslavratov's Github Stats" src="https://github-readme-stats.vercel.app/api?username=svyatoslavratov&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" width="480px" height="480px" alt="svyatoslavratov's Github Stats" src="https://github-readme-stats.vercel.app/api?username=svyatoslavratov&show_icons=true&hide_border=true&count_private=true" />
 <img align="left" alt="svyatoslavratov's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svyatoslavratov&show_icons=true&hide_border=true&count_private=true" />
 
 [Linkedin]: https://linkedin.com/in/svyatoslav-ratov-401138184
