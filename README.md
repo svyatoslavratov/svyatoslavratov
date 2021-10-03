@@ -12,6 +12,8 @@
 ### 2'nd Gitlab account (Work activity):
 [<img align="left" alt="ratov.sv | Gitlab" width="64px" style="border-radius: 50%" src="https://gitlab.com/uploads/-/system/user/avatar/3331903/avatar.png?width=400" />][Gitlab]
 
+<br />
+
 ### Languages and Tools:
 
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
