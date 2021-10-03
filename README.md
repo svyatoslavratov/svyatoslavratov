@@ -13,6 +13,8 @@
 [<img align="left" alt="ratov.sv | Gitlab" width="64px" style="border-radius: 50%" src="https://gitlab.com/uploads/-/system/user/avatar/3331903/avatar.png?width=400" />][Gitlab]
 
 <br />
+<br />
+<br />
 
 ### Languages and Tools:
 
