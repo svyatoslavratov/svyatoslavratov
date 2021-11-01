@@ -25,7 +25,6 @@
 <br />
 
 <img align="left" alt="svyatoslavratov's Github Stats" src="https://github-readme-stats.vercel.app/api?username=svyatoslavratov&show_icons=true&hide_border=true&count_private=true" />
-<img align="left" alt="svyatoslavratov's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svyatoslavratov&show_icons=true&hide_border=true&count_private=true" />
 
 [Linkedin]: https://linkedin.com/in/svyatoslav-ratov-401138184
 [Telegram]: https://t.me/svyatoslavratov
