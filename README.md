@@ -4,8 +4,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="svyatoslavratov | LinkedIn" width="22px" style="color:blue; background:blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
-[<img align="left" alt="svyatoslavratov | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/telegram.svg" />][Telegram]
+Linkedin: https://linkedin.com/in/svyatoslav-ratov-401138184
+Telegram: https://t.me/svyatoslavratov
 
 <br />
 
