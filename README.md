@@ -5,6 +5,7 @@
 ### Connect with me:
 
 [<img align="left" alt="svyatoslavratov | LinkedIn" width="22px" style="color:blue; background:blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
+[<div style="background-color: blue; mask: url(https://img.icons8.com/stackoverflow) no-repeat center / contain;"></div>][Test]
 [<img align="left" alt="svyatoslavratov | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/telegram.svg" />][Telegram]
 
 <br />
