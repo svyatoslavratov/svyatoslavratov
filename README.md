@@ -1,6 +1,6 @@
 ## Hello! I'm Svyatoslav Ratov
 
-### I'm an NodeJS Backend Engineer, BSc student, ex Software Engineer Intern @ Intel
+### I'm an NodeJS Backend Engineer, BSc student
 
 ### Connect with me:
 
