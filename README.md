@@ -1,6 +1,6 @@
 ## Hello! I'm Svyatoslav Ratov
 
-### Node.js Backend Engineer
+### Software Engineer
 
 ### Connect with me:
 
